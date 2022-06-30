@@ -22,7 +22,7 @@ title: The Virtual Gravel Trap
 email: zack@graveltrap.net
 description: >- # this means to ignore newlines until "baseurl:"
   The Virtual Gravel Trap - useful information for motorsport real and virtual, especially endurance and iRacing.
-baseurl: "/_site" # the subpath of your site, e.g. /blog
+baseurl: "/graveltrap" # the subpath of your site, e.g. /blog
 url: "http://zedayseekay.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zaack23
 github_username:  zedayseekay

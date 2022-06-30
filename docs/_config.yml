@@ -22,8 +22,8 @@ title: The Virtual Gravel Trap
 email: zack@graveltrap.net
 description: >- # this means to ignore newlines until "baseurl:"
   The Virtual Gravel Trap - useful information for motorsport real and virtual, especially endurance and iRacing.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "http://zedayseekay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/_site" # the subpath of your site, e.g. /blog
+url: "http://zedayseekay.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zaack23
 github_username:  zedayseekay
 
@@ -51,3 +51,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# The following are hardwired by GitHub Pages, per 
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+lsi: false # No "related posts" allowed
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown: # The markdown parser
+  math_engine: mathjax
+  syntax_highlighter: rouge

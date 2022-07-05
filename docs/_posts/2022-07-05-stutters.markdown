@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Stuttering issues"
+date:   2022-07-05 19:00:00 +0100
+categories: CPU microcode firmware stutter problem AMD Ryzen
+---
+
+## AMD Ryzen microstutters
+
+If you are using fTPM with Ryzen you may be affected by microstutters. Most motherboard manufacturers have now released a BIOS update, so if you're
+- on Ryzen CPU
+- have a mysterious stutter
+- have fTPM enabled
+you'll need to upgrade your *motherboard* BIOS.
+
+This applies to both triples and VR.
+
+AMD's release fix was AMD AGESA V2 1.2.0.7, so check the release notes for your motherboard's update to see whether it includes that release. If not you'll have to wait a while longer...
+
+https://www.amd.com/en/support/kb/faq/pa-410
+
+

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Stuttering issues"
-date:   2022-07-05 19:00:00 +0100
-categories: CPU microcode firmware stutter problem AMD Ryzen
+date:   2022-07-05 
+categories: [CPU, microcode, firmware, stutter, problem, AMD, Ryzen]
 ---
 
 ## AMD Ryzen microstutters

@@ -10,7 +10,7 @@ iRacing is currently having some... difficulties... running on Bootcamp installa
 
 The problem is fixed in the latest AMD drivers for Windows; but the Apple-approved Bootcamp download of those drivers is well behind this version. The only answer is to install the unsupported, but newest, drivers yourself.
 
-The affected Macs are those with Radeon 5xx GPUs.
+The affected Macs are those with Radeon 5xx GPUs. Per [a post from iRacing staff](https://forums.iracing.com/discussion/comment/191444/#Comment_191444) the affected 5xx generations are Polaris 21, Polaris 22, and Ellesmere.
 
 There is an official post from iRacing [with instructions](https://forums.iracing.com/discussion/25240/attention-mac-bootcamp-users-who-are-unable-to-launch-the-sim/p1]). This will update the drivers to version 22.x.x - a lot newer than the latest official Bootcamp download from Apple.
 
